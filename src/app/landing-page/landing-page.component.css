@@ -1,0 +1,29 @@
+/* For medium screens */
+@media (max-width: 2560px) {
+    .responsive-background {
+      background-image: url('../../assets/img/Landing_page_v4.png');
+    }
+  }
+  
+  /* For small screens */
+  @media (max-width: 1920px) {
+    .responsive-background {
+      background-image: url('../../assets/img/Landing_page_v4.png');
+    }
+  }
+
+   /* For small screens */
+   @media (max-width: 1080px) {
+    .responsive-background {
+      background-image: url('../../assets/img/Landing_page_v4.png');
+    }
+  }
+
+      /* For small screens */
+      @media (max-width: 600px) {
+        .responsive-background {
+          background-image: url('../../assets/img/phone_landingPage.jpg');
+        }
+      }
+
+      
